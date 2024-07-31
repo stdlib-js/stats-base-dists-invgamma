@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import invgamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma@deno/mod.js';
+import invgamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma@v0.2.2-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { InvGamma, cdf, entropy, kurtosis, logpdf, mean, mode, pdf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma@deno/mod.js';
+import { InvGamma, cdf, entropy, kurtosis, logpdf, mean, mode, pdf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma@v0.2.2-deno/mod.js';
 ```
 
 #### invgamma
@@ -128,7 +128,7 @@ var y = dist.cdf( 0.5 );
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@deno/mod.js';
-import invgamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma@deno/mod.js';
+import invgamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma@v0.2.2-deno/mod.js';
 
 console.log( objectKeys( invgamma ) );
 ```
