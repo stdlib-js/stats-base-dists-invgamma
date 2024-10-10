@@ -4,9 +4,43 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-10-01)
+## Unreleased (2024-10-10)
 
-No changes reported for this release.
+<section class="packages">
+
+### Packages
+
+</section>
+
+<!-- /.packages -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 3 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Shivam
+-   shivam Ahir
+
+</section>
+
+<!-- /.contributors -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`6c3b249`](https://github.com/stdlib-js/stdlib/commit/6c3b2492906413f1d994aebe9dbc12b11245f108) - **docs:** improve README examples of `stats/base/dists/invgamma namespace` [(#1808)](https://github.com/stdlib-js/stdlib/pull/1808) _(by Shivam, Philipp Burckhardt, shivam Ahir)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
 
 </section>
 
