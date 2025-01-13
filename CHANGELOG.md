@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-30)
+## Unreleased (2025-01-13)
 
 <section class="packages">
 
@@ -239,7 +239,7 @@ A total of 4 people contributed to this release. Thank you to the following cont
 -   Aayush Khanna
 -   Philipp Burckhardt
 -   Shivam Ahir
--   Vivek maurya
+-   Vivek Maurya
 
 </section>
 
@@ -251,11 +251,14 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 <details>
 
--   [`026462b`](https://github.com/stdlib-js/stdlib/commit/026462b6936fe27d7d7b2983e026e74339ceeed8) - **feat:** add C implementation for `stats/base/dists/invgamma/mode`   [(#4117)](https://github.com/stdlib-js/stdlib/pull/4117) _(by Vivek maurya)_
--   [`150755b`](https://github.com/stdlib-js/stdlib/commit/150755bdfc256d687e34cddd85a8f075fe4d4ab4) - **feat:** add C implementation for `stats/base/dists/invgamma/kurtosis`   [(#4120)](https://github.com/stdlib-js/stdlib/pull/4120) _(by Vivek maurya)_
--   [`4bea27a`](https://github.com/stdlib-js/stdlib/commit/4bea27aa3beda0297d8860b3cd4f66f824cd1ddf) - **feat:** add C implementation for `stats/base/dists/invgamma/stdev`   [(#4118)](https://github.com/stdlib-js/stdlib/pull/4118) _(by Vivek maurya)_
--   [`eaf7676`](https://github.com/stdlib-js/stdlib/commit/eaf7676c507f5ac5788df7d4fe2501acc7d76494) - **feat:** add C implementation for `stats/base/dists/invgamma/skewness`   [(#4119)](https://github.com/stdlib-js/stdlib/pull/4119) _(by Vivek maurya)_
--   [`dd6359a`](https://github.com/stdlib-js/stdlib/commit/dd6359af1005e76df487cc727e82eb0464a00352) - **feat:** add C implementation for `stats/base/dists/invgamma/mean`   [(#4116)](https://github.com/stdlib-js/stdlib/pull/4116) _(by Vivek maurya)_
+-   [`f3df15f`](https://github.com/stdlib-js/stdlib/commit/f3df15f118d563573f27d2d2b96e35b842f05a18) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
+-   [`fc0ff17`](https://github.com/stdlib-js/stdlib/commit/fc0ff171dab59e73e1748c1bff504166adc826c3) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
+-   [`1d5aa47`](https://github.com/stdlib-js/stdlib/commit/1d5aa47204c258b674d3db4aec92fbd2475e5ea7) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
+-   [`026462b`](https://github.com/stdlib-js/stdlib/commit/026462b6936fe27d7d7b2983e026e74339ceeed8) - **feat:** add C implementation for `stats/base/dists/invgamma/mode`   [(#4117)](https://github.com/stdlib-js/stdlib/pull/4117) _(by Vivek Maurya)_
+-   [`150755b`](https://github.com/stdlib-js/stdlib/commit/150755bdfc256d687e34cddd85a8f075fe4d4ab4) - **feat:** add C implementation for `stats/base/dists/invgamma/kurtosis`   [(#4120)](https://github.com/stdlib-js/stdlib/pull/4120) _(by Vivek Maurya)_
+-   [`4bea27a`](https://github.com/stdlib-js/stdlib/commit/4bea27aa3beda0297d8860b3cd4f66f824cd1ddf) - **feat:** add C implementation for `stats/base/dists/invgamma/stdev`   [(#4118)](https://github.com/stdlib-js/stdlib/pull/4118) _(by Vivek Maurya)_
+-   [`eaf7676`](https://github.com/stdlib-js/stdlib/commit/eaf7676c507f5ac5788df7d4fe2501acc7d76494) - **feat:** add C implementation for `stats/base/dists/invgamma/skewness`   [(#4119)](https://github.com/stdlib-js/stdlib/pull/4119) _(by Vivek Maurya)_
+-   [`dd6359a`](https://github.com/stdlib-js/stdlib/commit/dd6359af1005e76df487cc727e82eb0464a00352) - **feat:** add C implementation for `stats/base/dists/invgamma/mean`   [(#4116)](https://github.com/stdlib-js/stdlib/pull/4116) _(by Vivek Maurya)_
 -   [`8bf8285`](https://github.com/stdlib-js/stdlib/commit/8bf8285aba0ecbd00ae145c4c5c098cd28135814) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`e9d539e`](https://github.com/stdlib-js/stdlib/commit/e9d539ed6f0185d2455a45b5e29bd50d5c556db5) - **feat:** add C implementation for `stats/base/dists/invgamma/entropy` [(#3682)](https://github.com/stdlib-js/stdlib/pull/3682) _(by Aayush Khanna, Philipp Burckhardt, stdlib-bot)_
 -   [`fdd3963`](https://github.com/stdlib-js/stdlib/commit/fdd3963096904e999191e354dede1ca59461adc2) - **chore:** minor clean-up _(by Philipp Burckhardt)_
