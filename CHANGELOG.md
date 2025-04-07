@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-17)
+## Unreleased (2025-04-07)
 
 <section class="packages">
 
@@ -214,6 +214,40 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="stats-base-dists-invgamma-variance-unreleased">
+
+#### [@stdlib/stats/base/dists/invgamma/variance](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/invgamma/variance)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`c82ae2b`](https://github.com/stdlib-js/stdlib/commit/c82ae2ba1e86b0a76189ae678d7ca5cd2dc18e1f) - add C implementation for `stats/base/dists/invgamma/variance` [(#3943)](https://github.com/stdlib-js/stdlib/pull/3943)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3680](https://github.com/stdlib-js/stdlib/issues/3680)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 </section>
 
 <!-- /.packages -->
@@ -222,9 +256,9 @@ This release closes the following issue:
 
 ### Closed Issues
 
-A total of 6 issues were closed in this release:
+A total of 7 issues were closed in this release:
 
-[#3671](https://github.com/stdlib-js/stdlib/issues/3671), [#3672](https://github.com/stdlib-js/stdlib/issues/3672), [#3674](https://github.com/stdlib-js/stdlib/issues/3674), [#3675](https://github.com/stdlib-js/stdlib/issues/3675), [#3678](https://github.com/stdlib-js/stdlib/issues/3678), [#3679](https://github.com/stdlib-js/stdlib/issues/3679)
+[#3671](https://github.com/stdlib-js/stdlib/issues/3671), [#3672](https://github.com/stdlib-js/stdlib/issues/3672), [#3674](https://github.com/stdlib-js/stdlib/issues/3674), [#3675](https://github.com/stdlib-js/stdlib/issues/3675), [#3678](https://github.com/stdlib-js/stdlib/issues/3678), [#3679](https://github.com/stdlib-js/stdlib/issues/3679), [#3680](https://github.com/stdlib-js/stdlib/issues/3680)
 
 </section>
 
@@ -252,6 +286,8 @@ A total of 5 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`c82ae2b`](https://github.com/stdlib-js/stdlib/commit/c82ae2ba1e86b0a76189ae678d7ca5cd2dc18e1f) - **feat:** add C implementation for `stats/base/dists/invgamma/variance` [(#3943)](https://github.com/stdlib-js/stdlib/pull/3943) _(by Aayush Khanna, Philipp Burckhardt, stdlib-bot)_
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`f7988d3`](https://github.com/stdlib-js/stdlib/commit/f7988d3c02e0eff3bd9bd7523b5dc975bb98dc0e) - **bench:** fix `isnan` checks in `stats/base/dists` [(#5296)](https://github.com/stdlib-js/stdlib/pull/5296) _(by Karan Anand)_
 -   [`911e179`](https://github.com/stdlib-js/stdlib/commit/911e1793885aced96a177f2ea54300503b2c2a26) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
 -   [`f505ed5`](https://github.com/stdlib-js/stdlib/commit/f505ed56b0c0cc20458f9e51760d45d5abd60b36) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
