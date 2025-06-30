@@ -4,12 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-09)
+## Unreleased (2025-06-30)
 
 <section class="features">
 
 ### Features
 
+-   [`b7f644e`](https://github.com/stdlib-js/stdlib/commit/b7f644ee905233220deec5cc7aa5d757391a3b4d) - add C implementation for inverse gamma CDF
+-   [`6f24547`](https://github.com/stdlib-js/stdlib/commit/6f2454795f4ed502e3ed735034dd253899bc6d08) - add C implementation for `@stdlib/stats-base/dists/invgamma/pdf` [(#4421)](https://github.com/stdlib-js/stdlib/pull/4421)
+-   [`7a70890`](https://github.com/stdlib-js/stdlib/commit/7a708901d96214143bd56d83ab68fb0ad4557c4d) - add C implementation for `stats/base/dists/invgamma/logpdf` [(#4423)](https://github.com/stdlib-js/stdlib/pull/4423)
 -   [`c82ae2b`](https://github.com/stdlib-js/stdlib/commit/c82ae2ba1e86b0a76189ae678d7ca5cd2dc18e1f) - add C implementation for `stats/base/dists/invgamma/variance` [(#3943)](https://github.com/stdlib-js/stdlib/pull/3943)
 -   [`026462b`](https://github.com/stdlib-js/stdlib/commit/026462b6936fe27d7d7b2983e026e74339ceeed8) - add C implementation for `stats/base/dists/invgamma/mode`   [(#4117)](https://github.com/stdlib-js/stdlib/pull/4117)
 -   [`150755b`](https://github.com/stdlib-js/stdlib/commit/150755bdfc256d687e34cddd85a8f075fe4d4ab4) - add C implementation for `stats/base/dists/invgamma/kurtosis`   [(#4120)](https://github.com/stdlib-js/stdlib/pull/4120)
@@ -26,9 +29,9 @@
 
 ### Closed Issues
 
-A total of 7 issues were closed in this release:
+A total of 9 issues were closed in this release:
 
-[#3671](https://github.com/stdlib-js/stdlib/issues/3671), [#3672](https://github.com/stdlib-js/stdlib/issues/3672), [#3674](https://github.com/stdlib-js/stdlib/issues/3674), [#3675](https://github.com/stdlib-js/stdlib/issues/3675), [#3678](https://github.com/stdlib-js/stdlib/issues/3678), [#3679](https://github.com/stdlib-js/stdlib/issues/3679), [#3680](https://github.com/stdlib-js/stdlib/issues/3680)
+[#3671](https://github.com/stdlib-js/stdlib/issues/3671), [#3672](https://github.com/stdlib-js/stdlib/issues/3672), [#3673](https://github.com/stdlib-js/stdlib/issues/3673), [#3674](https://github.com/stdlib-js/stdlib/issues/3674), [#3675](https://github.com/stdlib-js/stdlib/issues/3675), [#3676](https://github.com/stdlib-js/stdlib/issues/3676), [#3678](https://github.com/stdlib-js/stdlib/issues/3678), [#3679](https://github.com/stdlib-js/stdlib/issues/3679), [#3680](https://github.com/stdlib-js/stdlib/issues/3680)
 
 </section>
 
@@ -40,6 +43,9 @@ A total of 7 issues were closed in this release:
 
 <details>
 
+-   [`b7f644e`](https://github.com/stdlib-js/stdlib/commit/b7f644ee905233220deec5cc7aa5d757391a3b4d) - **feat:** add C implementation for inverse gamma CDF _(by Philipp Burckhardt)_
+-   [`6f24547`](https://github.com/stdlib-js/stdlib/commit/6f2454795f4ed502e3ed735034dd253899bc6d08) - **feat:** add C implementation for `@stdlib/stats-base/dists/invgamma/pdf` [(#4421)](https://github.com/stdlib-js/stdlib/pull/4421) _(by Dhruv Arvind Singh, Philipp Burckhardt, stdlib-bot)_
+-   [`7a70890`](https://github.com/stdlib-js/stdlib/commit/7a708901d96214143bd56d83ab68fb0ad4557c4d) - **feat:** add C implementation for `stats/base/dists/invgamma/logpdf` [(#4423)](https://github.com/stdlib-js/stdlib/pull/4423) _(by Dhruv Arvind Singh, Philipp Burckhardt, stdlib-bot)_
 -   [`3565318`](https://github.com/stdlib-js/stdlib/commit/3565318e3639b3e44890ed15ccd73560d3cac14c) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`367e8f9`](https://github.com/stdlib-js/stdlib/commit/367e8f90bec98d87e4bf044f0cf8baf12602c3dd) - **chore:** clean-up _(by Athan Reines)_
 -   [`c82ae2b`](https://github.com/stdlib-js/stdlib/commit/c82ae2ba1e86b0a76189ae678d7ca5cd2dc18e1f) - **feat:** add C implementation for `stats/base/dists/invgamma/variance` [(#3943)](https://github.com/stdlib-js/stdlib/pull/3943) _(by Aayush Khanna, Philipp Burckhardt, stdlib-bot)_
@@ -73,10 +79,11 @@ A total of 7 issues were closed in this release:
 
 ### Contributors
 
-A total of 7 people contributed to this release. Thank you to the following contributors:
+A total of 8 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
+-   Dhruv Arvind Singh
 -   Gururaj Gurram
 -   Karan Anand
 -   Philipp Burckhardt
