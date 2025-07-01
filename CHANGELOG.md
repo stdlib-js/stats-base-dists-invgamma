@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-30)
+## Unreleased (2025-07-01)
 
 <section class="features">
 
@@ -43,6 +43,8 @@ A total of 9 issues were closed in this release:
 
 <details>
 
+-   [`e342a38`](https://github.com/stdlib-js/stdlib/commit/e342a388619ab71f5222105ec94c5029e42a4458) - **refactor:** update paths _(by Gururaj Gurram)_
+-   [`0a23889`](https://github.com/stdlib-js/stdlib/commit/0a23889dd55afcd8f1a85cd208a2397c931637bd) - **test:** increase tolerances for passing tests _(by Philipp Burckhardt)_
 -   [`b7f644e`](https://github.com/stdlib-js/stdlib/commit/b7f644ee905233220deec5cc7aa5d757391a3b4d) - **feat:** add C implementation for inverse gamma CDF _(by Philipp Burckhardt)_
 -   [`6f24547`](https://github.com/stdlib-js/stdlib/commit/6f2454795f4ed502e3ed735034dd253899bc6d08) - **feat:** add C implementation for `@stdlib/stats-base/dists/invgamma/pdf` [(#4421)](https://github.com/stdlib-js/stdlib/pull/4421) _(by Dhruv Arvind Singh, Philipp Burckhardt, stdlib-bot)_
 -   [`7a70890`](https://github.com/stdlib-js/stdlib/commit/7a708901d96214143bd56d83ab68fb0ad4557c4d) - **feat:** add C implementation for `stats/base/dists/invgamma/logpdf` [(#4423)](https://github.com/stdlib-js/stdlib/pull/4423) _(by Dhruv Arvind Singh, Philipp Burckhardt, stdlib-bot)_
