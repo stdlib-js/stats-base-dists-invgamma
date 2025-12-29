@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-01)
+## Unreleased (2025-12-29)
 
 <section class="features">
 
@@ -43,6 +43,16 @@ A total of 9 issues were closed in this release:
 
 <details>
 
+-   [`97218a1`](https://github.com/stdlib-js/stdlib/commit/97218a12e1d5ec1479a5b39ac4d32318c372e922) - **docs:** fix TSDoc example code return annotations _(by Philipp Burckhardt)_
+-   [`ff50310`](https://github.com/stdlib-js/stdlib/commit/ff5031015827c1783e8b7b62713361ca6c7bc655) - **chore:** fix lint errors _(by Philipp Burckhardt)_
+-   [`150854b`](https://github.com/stdlib-js/stdlib/commit/150854b200a0db4ef3f2001c16d0c743c69ee32b) - **docs:** replace manual `for` loop in examples [(#8229)](https://github.com/stdlib-js/stdlib/pull/8229) _(by Harsh Yadav)_
+-   [`e2efe32`](https://github.com/stdlib-js/stdlib/commit/e2efe32914d0d9dae5da34e6f7e7bf7655430710) - **chore:** rename exported variable in d.ts file to match name used in example code _(by Philipp Burckhardt)_
+-   [`776887e`](https://github.com/stdlib-js/stdlib/commit/776887e9577ae2402fd69c97328cb864811bd120) - **docs:** update annotation values _(by Philipp Burckhardt)_
+-   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`e342a38`](https://github.com/stdlib-js/stdlib/commit/e342a388619ab71f5222105ec94c5029e42a4458) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`0a23889`](https://github.com/stdlib-js/stdlib/commit/0a23889dd55afcd8f1a85cd208a2397c931637bd) - **test:** increase tolerances for passing tests _(by Philipp Burckhardt)_
 -   [`b7f644e`](https://github.com/stdlib-js/stdlib/commit/b7f644ee905233220deec5cc7aa5d757391a3b4d) - **feat:** add C implementation for inverse gamma CDF _(by Philipp Burckhardt)_
@@ -81,12 +91,13 @@ A total of 9 issues were closed in this release:
 
 ### Contributors
 
-A total of 8 people contributed to this release. Thank you to the following contributors:
+A total of 9 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
 -   Dhruv Arvind Singh
 -   Gururaj Gurram
+-   Harsh Yadav
 -   Karan Anand
 -   Philipp Burckhardt
 -   Shivam Ahir
