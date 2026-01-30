@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-12-29)
+## 0.3.0 (2026-01-30)
 
 <section class="features">
 
@@ -43,6 +43,8 @@ A total of 9 issues were closed in this release:
 
 <details>
 
+-   [`3e81841`](https://github.com/stdlib-js/stdlib/commit/3e81841c3790593fb3b7e85e7cfdc41680ed67be) - **bench:** update random value generation [(#9727)](https://github.com/stdlib-js/stdlib/pull/9727) _(by Harsh Yadav)_
+-   [`efd9272`](https://github.com/stdlib-js/stdlib/commit/efd92729d0fe46c08c4e0f647fb5a8dd5d713510) - **bench:** update random value generation [(#9728)](https://github.com/stdlib-js/stdlib/pull/9728) _(by Harsh Yadav)_
 -   [`97218a1`](https://github.com/stdlib-js/stdlib/commit/97218a12e1d5ec1479a5b39ac4d32318c372e922) - **docs:** fix TSDoc example code return annotations _(by Philipp Burckhardt)_
 -   [`ff50310`](https://github.com/stdlib-js/stdlib/commit/ff5031015827c1783e8b7b62713361ca6c7bc655) - **chore:** fix lint errors _(by Philipp Burckhardt)_
 -   [`150854b`](https://github.com/stdlib-js/stdlib/commit/150854b200a0db4ef3f2001c16d0c743c69ee32b) - **docs:** replace manual `for` loop in examples [(#8229)](https://github.com/stdlib-js/stdlib/pull/8229) _(by Harsh Yadav)_
