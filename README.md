@@ -42,13 +42,18 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import invgamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-invgamma/tags). For example,
+
+```javascript
 import invgamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma@v0.3.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { InvGamma, cdf, entropy, kurtosis, logpdf, mean, mode, pdf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma@v0.3.1-esm/index.mjs';
+import { InvGamma, cdf, entropy, kurtosis, logpdf, mean, mode, pdf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma@esm/index.mjs';
 ```
 
 #### invgamma
@@ -137,7 +142,7 @@ import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@
 import gamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma@esm/index.mjs';
 import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-mean@esm/index.mjs';
 import abs from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-abs@esm/index.mjs';
-import invgamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma@v0.3.1-esm/index.mjs';
+import invgamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma@esm/index.mjs';
 
 // Define the shape and scale parameters:
 var alpha = 5.0; // shape parameter (α)
