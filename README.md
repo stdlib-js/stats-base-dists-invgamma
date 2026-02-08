@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import invgamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma@deno/mod.js';
+import invgamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma@v0.3.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { InvGamma, cdf, entropy, kurtosis, logpdf, mean, mode, pdf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma@deno/mod.js';
+import { InvGamma, cdf, entropy, kurtosis, logpdf, mean, mode, pdf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma@v0.3.1-deno/mod.js';
 ```
 
 #### invgamma
@@ -132,7 +132,7 @@ import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@
 import gamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma@deno/mod.js';
 import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-mean@deno/mod.js';
 import abs from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-abs@deno/mod.js';
-import invgamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma@deno/mod.js';
+import invgamma from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma@v0.3.1-deno/mod.js';
 
 // Define the shape and scale parameters:
 var alpha = 5.0; // shape parameter (α)
