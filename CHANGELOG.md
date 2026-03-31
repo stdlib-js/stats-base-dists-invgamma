@@ -2,6 +2,48 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-31)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`f9dbbfa`](https://github.com/stdlib-js/stdlib/commit/f9dbbfaf48e1830f1c9fb685856eac2edba3fac6) - **docs:** fix C examples [(#11138)](https://github.com/stdlib-js/stdlib/pull/11138) _(by anee3, Athan Reines)_
+-   [`ff568ee`](https://github.com/stdlib-js/stdlib/commit/ff568ee13c8d96d4ab48342942a0922870cdff06) - **docs:** fix incorrect header include in README C example [(#10937)](https://github.com/stdlib-js/stdlib/pull/10937) _(by Om-A-osc)_
+-   [`353e1b0`](https://github.com/stdlib-js/stdlib/commit/353e1b00fae2d4d90eea6c1404472503a74fc1d2) - **docs:** fix C example codeblock in `stats/base/dists/invgamma/mode/README.md` [(#10938)](https://github.com/stdlib-js/stdlib/pull/10938) _(by Om-A-osc)_
+-   [`8a6c701`](https://github.com/stdlib-js/stdlib/commit/8a6c701c26772991b4f50e0d2b5194d676c80d1b) - **bench:** refactor to use string interpolation in `stats/base/dists/invgamma` [(#10442)](https://github.com/stdlib-js/stdlib/pull/10442) _(by Lokesh Ranjan)_
+-   [`f38e8a7`](https://github.com/stdlib-js/stdlib/commit/f38e8a7b433e0e9888eb57c83f4374073089ad85) - **docs:** clean-up parameters in Julia fixtures scripts _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 5 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Lokesh Ranjan
+-   Om-A-osc
+-   Philipp Burckhardt
+-   anee3
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-08)
