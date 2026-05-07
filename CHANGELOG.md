@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-31)
+## Unreleased (2026-05-07)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`187e141`](https://github.com/stdlib-js/stdlib/commit/187e141098635f0f2edf0f6f1289e06473ae7fcd) - **chore:** add missing `npm` engine constraint to `stats/base/dists/*/ctor` [(#11686)](https://github.com/stdlib-js/stdlib/pull/11686) _(by Philipp Burckhardt)_
+-   [`9a51841`](https://github.com/stdlib-js/stdlib/commit/9a51841213eb13adbd6b8fe36d96c00aac9fbb17) - **bench:** refactor to use string interpolation in `stats/base` [(#11393)](https://github.com/stdlib-js/stdlib/pull/11393) _(by Karan Anand)_
 -   [`f9dbbfa`](https://github.com/stdlib-js/stdlib/commit/f9dbbfaf48e1830f1c9fb685856eac2edba3fac6) - **docs:** fix C examples [(#11138)](https://github.com/stdlib-js/stdlib/pull/11138) _(by anee3, Athan Reines)_
 -   [`ff568ee`](https://github.com/stdlib-js/stdlib/commit/ff568ee13c8d96d4ab48342942a0922870cdff06) - **docs:** fix incorrect header include in README C example [(#10937)](https://github.com/stdlib-js/stdlib/pull/10937) _(by Om-A-osc)_
 -   [`353e1b0`](https://github.com/stdlib-js/stdlib/commit/353e1b00fae2d4d90eea6c1404472503a74fc1d2) - **docs:** fix C example codeblock in `stats/base/dists/invgamma/mode/README.md` [(#10938)](https://github.com/stdlib-js/stdlib/pull/10938) _(by Om-A-osc)_
@@ -28,9 +30,10 @@
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Karan Anand
 -   Lokesh Ranjan
 -   Om-A-osc
 -   Philipp Burckhardt
