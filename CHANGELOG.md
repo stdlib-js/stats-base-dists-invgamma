@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-15)
+## Unreleased (2026-08-02)
+
+<section class="features">
+
+### Features
+
+-   [`525c0cb`](https://github.com/stdlib-js/stdlib/commit/525c0cb527f9e8d116489aaf0dbb722abc471aeb) - add C implementation for `stats/base/dists/invgamma/quantile` [(#13640)](https://github.com/stdlib-js/stdlib/pull/13640)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3677](https://github.com/stdlib-js/stdlib/issues/3677)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,13 @@
 
 <details>
 
+-   [`a103b47`](https://github.com/stdlib-js/stdlib/commit/a103b474ac08bc97bfdeac4674230abc02d17ae5) - **docs:** fix descriptions [(#13696)](https://github.com/stdlib-js/stdlib/pull/13696) _(by Philipp Burckhardt)_
+-   [`8df3c50`](https://github.com/stdlib-js/stdlib/commit/8df3c505604130c2c0cdf20814d2126c9ef58e69) - **docs:** fix parameter descriptions and update spacing [(#13671)](https://github.com/stdlib-js/stdlib/pull/13671) _(by Philipp Burckhardt)_
+-   [`b06219c`](https://github.com/stdlib-js/stdlib/commit/b06219c7a1fa57a41fa94841738a83f2d98f62bd) - **chore:** clean-up [(#13653)](https://github.com/stdlib-js/stdlib/pull/13653) _(by Philipp Burckhardt)_
+-   [`525c0cb`](https://github.com/stdlib-js/stdlib/commit/525c0cb527f9e8d116489aaf0dbb722abc471aeb) - **feat:** add C implementation for `stats/base/dists/invgamma/quantile` [(#13640)](https://github.com/stdlib-js/stdlib/pull/13640) _(by Ujjwal Verma, Philipp Burckhardt)_
+-   [`b5b7b4c`](https://github.com/stdlib-js/stdlib/commit/b5b7b4cf9937655b9167cb0145394c787f36faeb) - **refactor:** add `isnan` guards [(#13362)](https://github.com/stdlib-js/stdlib/pull/13362) _(by Philipp Burckhardt)_
+-   [`ca49ceb`](https://github.com/stdlib-js/stdlib/commit/ca49ceb1e17979e0ecb77bc50dedd14b7515b46f) - **refactor:** rename internal variable [(#13167)](https://github.com/stdlib-js/stdlib/pull/13167) _(by Philipp Burckhardt)_
+-   [`8ca8ea2`](https://github.com/stdlib-js/stdlib/commit/8ca8ea2b4c2f7d764b3d5847a3a00908b13d2121) - **test:** fix filename [(#12974)](https://github.com/stdlib-js/stdlib/pull/12974) _(by Philipp Burckhardt)_
 -   [`cae5335`](https://github.com/stdlib-js/stdlib/commit/cae53357950b4c389b0020878c268995cd79d222) - **docs:** propagate develop fixes to sibling packages [(#12736)](https://github.com/stdlib-js/stdlib/pull/12736) _(by Philipp Burckhardt)_
 -   [`475d2a4`](https://github.com/stdlib-js/stdlib/commit/475d2a4b917d816bfde1f199f00f746110723066) - **docs:** update `stats/base/dists/invgamma` TypeScript declarations [(#12603)](https://github.com/stdlib-js/stdlib/pull/12603) _(by stdlib-bot)_
 -   [`f59b324`](https://github.com/stdlib-js/stdlib/commit/f59b324c3c652580e17c4c4baae8168faab8af8c) - **docs:** fix typos and copy-paste errors in `stats` TypeScript declarations [(#12482)](https://github.com/stdlib-js/stdlib/pull/12482) _(by Philipp Burckhardt, Athan Reines)_
@@ -33,13 +62,14 @@
 
 ### Contributors
 
-A total of 6 people contributed to this release. Thank you to the following contributors:
+A total of 7 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
 -   Lokesh Ranjan
 -   Om-A-osc
 -   Philipp Burckhardt
+-   Ujjwal Verma
 -   anee3
 
 </section>
