@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-02)
+## Unreleased (2026-09-21)
 
 <section class="features">
 
@@ -34,6 +34,14 @@ This release closes the following issue:
 
 <details>
 
+-   [`cdd1c85`](https://github.com/stdlib-js/stdlib/commit/cdd1c852dbb0cd91f1fa857dc4c90e0c4204a3fd) - **test:** migrate `stats/base/dists/invgamma/cdf` to ULP-based assertions [(#15310)](https://github.com/stdlib-js/stdlib/pull/15310) _(by Athan Reines)_
+-   [`9a4eae1`](https://github.com/stdlib-js/stdlib/commit/9a4eae1ab3ed33061575741155f8d2b7c01a98e0) - **test:** migrate `stats/base/dists/invgamma/kurtosis` to ULP-based assertions [(#15211)](https://github.com/stdlib-js/stdlib/pull/15211) _(by Philipp Burckhardt)_
+-   [`986f407`](https://github.com/stdlib-js/stdlib/commit/986f40743acffff7cc27ad9b42fd01f9776e4e59) - **test:** migrate `stats/base/dists/invgamma/pdf` to ULP-based assertions [(#15068)](https://github.com/stdlib-js/stdlib/pull/15068) _(by Athan Reines)_
+-   [`56c8136`](https://github.com/stdlib-js/stdlib/commit/56c8136bbb5d337291c884baeb17efa4ab4809fe) - **test:** migrate `stats/base/dists/invgamma/stdev` to ULP-based assertions [(#15055)](https://github.com/stdlib-js/stdlib/pull/15055) _(by Athan Reines)_
+-   [`564c1f8`](https://github.com/stdlib-js/stdlib/commit/564c1f88c6b32d9346184a826877d6f4b8a9790d) - **test:** migrate `stats/base/dists/invgamma/logpdf` to ULP-based assertions [(#14981)](https://github.com/stdlib-js/stdlib/pull/14981) _(by Athan Reines)_
+-   [`5e116bc`](https://github.com/stdlib-js/stdlib/commit/5e116bc7ed908a10d377698cd760652f17d3b084) - **test:** migrate `stats/base/dists/invgamma/variance` to ULP-based assertions [(#14870)](https://github.com/stdlib-js/stdlib/pull/14870) _(by Athan Reines)_
+-   [`3533940`](https://github.com/stdlib-js/stdlib/commit/3533940c8f8ab1a1aa1c92f09ec0cd10f6f0fa8d) - **test:** migrate `stats/base/dists/invgamma/skewness` to ULP-based assertions [(#14573)](https://github.com/stdlib-js/stdlib/pull/14573) _(by Athan Reines)_
+-   [`d5b5117`](https://github.com/stdlib-js/stdlib/commit/d5b511716a4d3d5937ae30351532753aea78d404) - **test:** migrate `stats/base/dists/invgamma/mean` to ULP-based assertions [(#14236)](https://github.com/stdlib-js/stdlib/pull/14236) _(by Athan Reines)_
 -   [`a103b47`](https://github.com/stdlib-js/stdlib/commit/a103b474ac08bc97bfdeac4674230abc02d17ae5) - **docs:** fix descriptions [(#13696)](https://github.com/stdlib-js/stdlib/pull/13696) _(by Philipp Burckhardt)_
 -   [`8df3c50`](https://github.com/stdlib-js/stdlib/commit/8df3c505604130c2c0cdf20814d2126c9ef58e69) - **docs:** fix parameter descriptions and update spacing [(#13671)](https://github.com/stdlib-js/stdlib/pull/13671) _(by Philipp Burckhardt)_
 -   [`b06219c`](https://github.com/stdlib-js/stdlib/commit/b06219c7a1fa57a41fa94841738a83f2d98f62bd) - **chore:** clean-up [(#13653)](https://github.com/stdlib-js/stdlib/pull/13653) _(by Philipp Burckhardt)_
