@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-21)
+## Unreleased (2026-11-07)
 
 <section class="features">
 
@@ -34,6 +34,11 @@ This release closes the following issue:
 
 <details>
 
+-   [`7349dff`](https://github.com/stdlib-js/stdlib/commit/7349dffeddd90289879f06e70acc1be8544af75b) - **style:** add missing whitespace [(#16507)](https://github.com/stdlib-js/stdlib/pull/16507) _(by Philipp Burckhardt)_
+-   [`343ead9`](https://github.com/stdlib-js/stdlib/commit/343ead96836e3b069ce48b9d749ce4881174dd2d) - **test:** migrate `stats/base/dists/invgamma/quantile` to ULP-based assertions [(#16004)](https://github.com/stdlib-js/stdlib/pull/16004) _(by Athan Reines)_
+-   [`e172448`](https://github.com/stdlib-js/stdlib/commit/e1724483c89513382e2ec42ab45b638c122ae549) - **docs:** add `entropy` property docs to `stats/base/dists/invgamma/ctor` [(#15598)](https://github.com/stdlib-js/stdlib/pull/15598) _(by Philipp Burckhardt)_
+-   [`a81f193`](https://github.com/stdlib-js/stdlib/commit/a81f193673e21e97d158b1a5024cf240019e63d5) - **test:** migrate `stats/base/dists/invgamma/mode` to ULP-based assertions [(#15502)](https://github.com/stdlib-js/stdlib/pull/15502) _(by Athan Reines)_
+-   [`01bd47a`](https://github.com/stdlib-js/stdlib/commit/01bd47a3bea267af6a5298a273cffd72816fdaf6) - **test:** migrate `stats/base/dists/invgamma/entropy` to ULP-based assertions [(#15478)](https://github.com/stdlib-js/stdlib/pull/15478) _(by Athan Reines)_
 -   [`cdd1c85`](https://github.com/stdlib-js/stdlib/commit/cdd1c852dbb0cd91f1fa857dc4c90e0c4204a3fd) - **test:** migrate `stats/base/dists/invgamma/cdf` to ULP-based assertions [(#15310)](https://github.com/stdlib-js/stdlib/pull/15310) _(by Athan Reines)_
 -   [`9a4eae1`](https://github.com/stdlib-js/stdlib/commit/9a4eae1ab3ed33061575741155f8d2b7c01a98e0) - **test:** migrate `stats/base/dists/invgamma/kurtosis` to ULP-based assertions [(#15211)](https://github.com/stdlib-js/stdlib/pull/15211) _(by Philipp Burckhardt)_
 -   [`986f407`](https://github.com/stdlib-js/stdlib/commit/986f40743acffff7cc27ad9b42fd01f9776e4e59) - **test:** migrate `stats/base/dists/invgamma/pdf` to ULP-based assertions [(#15068)](https://github.com/stdlib-js/stdlib/pull/15068) _(by Athan Reines)_
